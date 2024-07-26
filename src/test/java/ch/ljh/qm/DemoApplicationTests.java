@@ -8,6 +8,7 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
+        StringBuilder builder = new StringBuilder(2);
     }
 
 }
